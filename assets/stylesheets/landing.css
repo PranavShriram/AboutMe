@@ -54,7 +54,7 @@
    
   }
   .slideshow li:nth-child(2) { 
-    background-image: url(../images/image2.jpg);
+    background-image: url(../images/image5.jpg);
     animation-delay: 10s; 
   }
   .slideshow li:nth-child(3) { 
