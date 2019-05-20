@@ -5,6 +5,10 @@
     color: black;
    
 }
+.content
+{
+    min-height: calc(100vh - 100px);
+}
 
 #particles-js
 {   
@@ -100,4 +104,19 @@ button > a
     color:black;
     font-size: 20px;
     border-radius:4px;
+}
+
+.footer > p >i
+{
+    color:red;
+   
+    
+}
+.footer > p
+{
+    margin-left: 45%;
+}
+.footer {
+    height: 20px;
+    background-color:#f7f7f7;
 }
